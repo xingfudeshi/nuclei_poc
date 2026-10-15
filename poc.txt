@@ -734602,6 +734602,7 @@
 ./poc_high_quality/cve/cve-2008-2650-1358_1.yaml
 ./poc_high_quality/cve/cve-2008-2650-1358_2.yaml
 ./poc_high_quality/cve/cve-2008-2650-1359.yaml
+./poc_high_quality/cve/cve-2008-2650-1359_1.yaml
 ./poc_high_quality/cve/cve-2008-2650-1361.yaml
 ./poc_high_quality/cve/cve-2008-2650-1362.yaml
 ./poc_high_quality/cve/cve-2008-2650-1363.yaml
@@ -748425,6 +748426,7 @@
 ./poc_high_quality/other/Ruijie-EG-passLeak.yaml
 ./poc_high_quality/other/Ruijie_UAC_leakage.yaml
 ./poc_high_quality/other/Ruijie_UAC_leakage_1.yaml
+./poc_high_quality/other/Ruijie_UAC_leakage_3.yaml
 ./poc_high_quality/other/RuoYi-fileInclude.yaml
 ./poc_high_quality/other/S2-001.yaml
 ./poc_high_quality/other/S2-001_1.yaml
@@ -755545,6 +755547,7 @@
 ./poc_high_quality/sql_injection/fanwei-upgrade-sqli.yaml
 ./poc_high_quality/sql_injection/glodon-linkworks-sql-GetIMDictionary.yaml
 ./poc_high_quality/sql_injection/hasura-graphql-psql-exec-7899.yaml
+./poc_high_quality/sql_injection/header-based-blind-sqli3.yaml
 ./poc_high_quality/sql_injection/header-blind-sql-injection.yaml
 ./poc_high_quality/sql_injection/huigao-oa-sqli.yaml
 ./poc_high_quality/sql_injection/ioffice-oa-sqli.yaml
@@ -756755,6 +756758,7 @@
 ./poc_high_quality/upload/ecology-weaver_common-fileUpload.yaml
 ./poc_high_quality/upload/ecology-weaver_common-fileUpload_1.yaml
 ./poc_high_quality/upload/eofffie-upload.yaml
+./poc_high_quality/upload/eofffie-upload_2.yaml
 ./poc_high_quality/upload/exposed-file-upload-form.yaml
 ./poc_high_quality/upload/exposed-jquery-file-upload-7315.yaml
 ./poc_high_quality/upload/exposed-jquery-file-upload_1.yaml
