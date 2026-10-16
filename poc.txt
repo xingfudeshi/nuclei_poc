@@ -1100,6 +1100,7 @@
 ./poc_all/apache/apache-skywalking-dashboard.yaml
 ./poc_all/apache/apache-skywalking-dashboard_1.yaml
 ./poc_all/apache/apache-skywalking-dashboard_2.yaml
+./poc_all/apache/apache-skywalking-horizon-ui-config.yaml
 ./poc_all/apache/apache-sling-detect.yaml
 ./poc_all/apache/apache-solr-91-rce.yaml
 ./poc_all/apache/apache-solr-91-rce_1.yaml
@@ -4915,6 +4916,7 @@
 ./poc_all/auth/apache-rocketmq-broker-unauth_3.yaml
 ./poc_all/auth/apache-rocketmq-broker-unauth_4.yaml
 ./poc_all/auth/apache-rocketmq-broker-unauth_5.yaml
+./poc_all/auth/apache-skywalking-default-login.yaml
 ./poc_all/auth/apache-storm-unauth-373.yaml
 ./poc_all/auth/apache-storm-unauth.yaml
 ./poc_all/auth/apache-storm-unauth_1.yaml
@@ -399408,6 +399410,7 @@
 ./poc_all/cve/CVE-2024-34470_78.yaml
 ./poc_all/cve/CVE-2024-34470_79.yaml
 ./poc_all/cve/CVE-2024-34470_8.yaml
+./poc_all/cve/CVE-2024-34470_80.yaml
 ./poc_all/cve/CVE-2024-34470_9.yaml
 ./poc_all/cve/CVE-2024-34546-6d8a44cbfa6641422ccc29befddcb10f.yaml
 ./poc_all/cve/CVE-2024-34546-6d8a44cbfa6641422ccc29befddcb10f_1.yaml
@@ -507270,6 +507273,7 @@
 ./poc_all/cve/CVE-2026-12734-wedocs-11d68c98-3d7e-42af-be61-6bb5428b73b6.yaml
 ./poc_all/cve/CVE-2026-12736-wpify_woo-a9b8f2d5-a2c5-4f90-ab1d-4e17f7a7996e.yaml
 ./poc_all/cve/CVE-2026-12738-wp_easy_pay-2121d9fa-bab4-489d-89bc-07a8660bc3d1.yaml
+./poc_all/cve/CVE-2026-12741.yaml
 ./poc_all/cve/CVE-2026-12743-affiliate_toolkit_starter-dfd969b8-b88e-4d75-9d69-5f290b111fc7.yaml
 ./poc_all/cve/CVE-2026-12747-acf_frontend_form_element-bcfbce25-af5f-45dc-a7e1-922d3a549359.yaml
 ./poc_all/cve/CVE-2026-1275-multi_post_carousel-b27ecbf7-e97d-42c0-98d4-c235edf40669.yaml
@@ -522618,6 +522622,7 @@
 ./poc_all/cve/CVE-2026-9290_8.yaml
 ./poc_all/cve/CVE-2026-9290_9.yaml
 ./poc_all/cve/CVE-2026-9341-academy-1e9b094a-29ba-4be3-9033-fd915fae1820.yaml
+./poc_all/cve/CVE-2026-93616.yaml
 ./poc_all/cve/CVE-2026-93674.yaml
 ./poc_all/cve/CVE-2026-9506.yaml
 ./poc_all/cve/CVE-2026-9506_1.yaml
@@ -533175,6 +533180,7 @@
 ./poc_all/detect/apache-pinot-detect_1.yaml
 ./poc_all/detect/apache-shenyu-detect.yaml
 ./poc_all/detect/apache-shenyu-detect_1.yaml
+./poc_all/detect/apache-skywalking-horizon-ui-detect.yaml
 ./poc_all/detect/apache-sling-detect.yaml
 ./poc_all/detect/apache-solr-detect.yaml
 ./poc_all/detect/apache-streampark-detect.yaml
@@ -536327,6 +536333,7 @@
 ./poc_all/detect/matrix-detect_4.yaml
 ./poc_all/detect/matrix-detect_5.yaml
 ./poc_all/detect/matrix-detect_6.yaml
+./poc_all/detect/matrix-detect_7.yaml
 ./poc_all/detect/matrix-homeserver-detect.yaml
 ./poc_all/detect/matrix-homeserver-detect_1.yaml
 ./poc_all/detect/matrix-homeserver-detect_2.yaml
