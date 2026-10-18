@@ -357263,6 +357263,7 @@
 ./poc_all/cve/CVE-2024-10294-ce21_suite-cd6ce97c-fd80-4c43-a4d2-02aa91d11fac_1.yaml
 ./poc_all/cve/CVE-2024-10294.yaml
 ./poc_all/cve/CVE-2024-10294_1.yaml
+./poc_all/cve/CVE-2024-10303-marin-1bb089fd-2c6d-45fd-84e2-8531d31785e2.yaml
 ./poc_all/cve/CVE-2024-10308-e95e71d9b22aad1a339e647728650987.yaml
 ./poc_all/cve/CVE-2024-10308-jeg_elementor_kit-98aed079-672c-43bb-a5eb-faf8ffc04b71.yaml
 ./poc_all/cve/CVE-2024-10308-jeg_elementor_kit-98aed079-672c-43bb-a5eb-faf8ffc04b71_1.yaml
