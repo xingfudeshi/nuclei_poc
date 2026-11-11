@@ -102579,6 +102579,7 @@
 ./poc_all/cve/CVE-2018-25114_85.yaml
 ./poc_all/cve/CVE-2018-25114_86.yaml
 ./poc_all/cve/CVE-2018-25114_9.yaml
+./poc_all/cve/CVE-2018-25308-buddypress_xprofile_custom_fields_type-9a9bd007-5d0a-401a-b0a5-4dca8e383b1d.yaml
 ./poc_all/cve/CVE-2018-25324-simple_fields-0ea82fcc-09b1-4015-8858-becfa60d3a8f.yaml
 ./poc_all/cve/CVE-2018-25329-wp_with_spritz-7309ef28-8ec7-40aa-a891-bff088c435c1.yaml
 ./poc_all/cve/CVE-2018-25436-baggage_freight-6130d49f-61b7-4b70-b1a5-036346f82650.yaml
@@ -272839,6 +272840,7 @@
 ./poc_all/cve/CVE-2022-4888-addify_checkout_fields_manager-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/cve/CVE-2022-4888-addify_custom_fields_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/cve/CVE-2022-4888-addify_custom_order_number-c8065d25-2ded-4021-a53d-204242db0915.yaml
+./poc_all/cve/CVE-2022-4888-addify_custom_order_number-c8065d25-2ded-4021-a53d-204242db0915_1.yaml
 ./poc_all/cve/CVE-2022-4888-addify_custom_registration_forms_builder-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/cve/CVE-2022-4888-addify_free_gifts_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/cve/CVE-2022-4888-addify_gift_registry_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
@@ -272847,7 +272849,9 @@
 ./poc_all/cve/CVE-2022-4888-addify_order_tracking_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/cve/CVE-2022-4888-addify_price_calculator_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/cve/CVE-2022-4888-addify_product_dynamic_pricing_and_discounts-c8065d25-2ded-4021-a53d-204242db0915.yaml
+./poc_all/cve/CVE-2022-4888-addify_product_dynamic_pricing_and_discounts-c8065d25-2ded-4021-a53d-204242db0915_1.yaml
 ./poc_all/cve/CVE-2022-4888-addify_product_labels_and_stickers-c8065d25-2ded-4021-a53d-204242db0915.yaml
+./poc_all/cve/CVE-2022-4888-addify_product_labels_and_stickers-c8065d25-2ded-4021-a53d-204242db0915_1.yaml
 ./poc_all/cve/CVE-2022-4888-dcb630916033ba24548db000f8ccf17e.yaml
 ./poc_all/cve/CVE-2022-4888-fe4725d59eccc467872a889696fa5fa6.yaml
 ./poc_all/cve/CVE-2022-4888.yaml
@@ -356758,6 +356762,7 @@
 ./poc_all/cve/CVE-2024-0856_2.yaml
 ./poc_all/cve/CVE-2024-0858-4c16771df46813425d0ef99c052693c5.yaml
 ./poc_all/cve/CVE-2024-0858-innovs_hr_manager-e806ca3b-daae-48a2-9923-315dbf86a9e5.yaml
+./poc_all/cve/CVE-2024-0858-innovs_hr_manager-e806ca3b-daae-48a2-9923-315dbf86a9e5_1.yaml
 ./poc_all/cve/CVE-2024-0858.yaml
 ./poc_all/cve/CVE-2024-0858_1.yaml
 ./poc_all/cve/CVE-2024-0858_2.yaml
@@ -402790,6 +402795,7 @@
 ./poc_all/cve/CVE-2024-3585.yaml
 ./poc_all/cve/CVE-2024-3585_1.yaml
 ./poc_all/cve/CVE-2024-3585_2.yaml
+./poc_all/cve/CVE-2024-3586-letterpress-d749db62-cea4-4ca2-8734-50fa2ab707f3.yaml
 ./poc_all/cve/CVE-2024-3587-5dcd98498323168cb85d208891fafead.yaml
 ./poc_all/cve/CVE-2024-3587-auxin_portfolio-b0ea041b-f09d-4c62-aada-26afbc60b6f2.yaml
 ./poc_all/cve/CVE-2024-3587-auxin_portfolio-b0ea041b-f09d-4c62-aada-26afbc60b6f2_1.yaml
@@ -429280,6 +429286,7 @@
 ./poc_all/cve/CVE-2024-53767_1.yaml
 ./poc_all/cve/CVE-2024-53768-9a3deed242a94103b910250e4c9f9cc6.yaml
 ./poc_all/cve/CVE-2024-53768-content_audit_exporter-ba6f8837-813c-4e16-9adb-fdc90ccaf0ca.yaml
+./poc_all/cve/CVE-2024-53768-content_audit_exporter-ba6f8837-813c-4e16-9adb-fdc90ccaf0ca_1.yaml
 ./poc_all/cve/CVE-2024-53768.yaml
 ./poc_all/cve/CVE-2024-53769-15f79e5b8994448885f3d02862f03b54.yaml
 ./poc_all/cve/CVE-2024-53769-cpt_to_map_store-ea5c0b48-7e8e-492e-b0de-14681e31fe85.yaml
@@ -457629,6 +457636,7 @@
 ./poc_all/cve/CVE-2025-1570-directorist-853562ed-7f2e-453c-b3d0-67c90bd0231f_1.yaml
 ./poc_all/cve/CVE-2025-1570.yaml
 ./poc_all/cve/CVE-2025-15700-another_wordpress_classifieds_plugin-cd188e55-6147-49a6-a68f-7b1f8f7109da.yaml
+./poc_all/cve/CVE-2025-15702-cloud_blocks-0c922b7b-5502-48b7-8193-0fbf995b21e8.yaml
 ./poc_all/cve/CVE-2025-15703-wp_job_openings-481057b7-f146-4965-97ee-4a2e26c92ea7.yaml
 ./poc_all/cve/CVE-2025-15705-contact_form_by_supsystic-defebc39-ec6a-4116-ac0d-5a6c998fd4e9.yaml
 ./poc_all/cve/CVE-2025-1571-150e09c061a86730f76678043a2b7f76.yaml
@@ -473647,6 +473655,7 @@
 ./poc_all/cve/CVE-2025-30935-contact_form_ready-09506d1c-986e-45c8-b43c-7f2578eb2dbd.yaml
 ./poc_all/cve/CVE-2025-30935-e21ee63c84e82eb67ef3c9f697d1035d.yaml
 ./poc_all/cve/CVE-2025-30936-torod-7fd2d8cd-277d-4951-9445-45e8e37db9b4.yaml
+./poc_all/cve/CVE-2025-30936-torod-7fd2d8cd-277d-4951-9445-45e8e37db9b4_1.yaml
 ./poc_all/cve/CVE-2025-30937-13358c3972b9cdb8bc2e74223b2c900e.yaml
 ./poc_all/cve/CVE-2025-30937-responsify_wp-4898d7c1-a784-45b6-87bf-c1949fc1414f.yaml
 ./poc_all/cve/CVE-2025-30937-responsify_wp-4898d7c1-a784-45b6-87bf-c1949fc1414f_1.yaml
@@ -475659,6 +475668,7 @@
 ./poc_all/cve/CVE-2025-31759-boo_recipes-f56259cf-7d3a-441d-9078-372b84e9ff7f_1.yaml
 ./poc_all/cve/CVE-2025-31760-2edadf9c1cf429ca0589c28151c123ab.yaml
 ./poc_all/cve/CVE-2025-31760-snapwidget_wp_instagram_widget-cb07f79f-6583-4f65-bc88-65dbd7207d5e.yaml
+./poc_all/cve/CVE-2025-31760-snapwidget_wp_instagram_widget-cb07f79f-6583-4f65-bc88-65dbd7207d5e_1.yaml
 ./poc_all/cve/CVE-2025-31761-0b6939e72e065c0c0e8aef13c9330634.yaml
 ./poc_all/cve/CVE-2025-31761-hypotext-56e60322-2934-4074-a484-854ba2c53a54.yaml
 ./poc_all/cve/CVE-2025-31761-hypotext-56e60322-2934-4074-a484-854ba2c53a54_1.yaml
@@ -477811,6 +477821,7 @@
 ./poc_all/cve/CVE-2025-32663-fat_coming_soon-a4d4532c-f29f-44e2-9aab-beab915efd3c_1.yaml
 ./poc_all/cve/CVE-2025-32664-729c71f695a1c03fd5e2d28f57264c32.yaml
 ./poc_all/cve/CVE-2025-32664-nepali_date_utilities-1b5dee10-7dd3-4ce7-9e37-e54fc98dbc7b.yaml
+./poc_all/cve/CVE-2025-32664-nepali_date_utilities-1b5dee10-7dd3-4ce7-9e37-e54fc98dbc7b_1.yaml
 ./poc_all/cve/CVE-2025-32665-f5bc13f17d1067d135cb4bb2aca1c09e.yaml
 ./poc_all/cve/CVE-2025-32665-office_locator-74f15066-097d-4d4f-9cf2-a4889043496b.yaml
 ./poc_all/cve/CVE-2025-32665-office_locator-74f15066-097d-4d4f-9cf2-a4889043496b_1.yaml
@@ -491352,6 +491363,7 @@
 ./poc_all/cve/CVE-2025-49956-fade_slider-50f2cc05-b1f8-4f87-8ede-0df475d81a02.yaml
 ./poc_all/cve/CVE-2025-49957-email_attachment_by_order_status_products-3b4b2f0d-4803-4fcd-91c5-deca95037324.yaml
 ./poc_all/cve/CVE-2025-49958-robokassa-cc8aa5c9-8ffc-4dc6-8b61-8c05aded7749.yaml
+./poc_all/cve/CVE-2025-49958-robokassa-cc8aa5c9-8ffc-4dc6-8b61-8c05aded7749_1.yaml
 ./poc_all/cve/CVE-2025-49959-bbp_move_topics-a0af6cea-a667-4339-bc9f-e4c0d0e36848.yaml
 ./poc_all/cve/CVE-2025-49960-leadbi-13eed921-d4da-4729-a02f-c9485f7b3266.yaml
 ./poc_all/cve/CVE-2025-49961-breeze_checkout-08260a34-c612-4f17-94e5-3231d77a3a84.yaml
@@ -659417,10 +659429,12 @@
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_custom_fields_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_free_gifts_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_gift_registry_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
+./poc_all/remote_code_execution/CVE-2022-4888-addify_gift_registry_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915_1.yaml
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_image_watermark_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_order_approval_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_order_tracking_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
 ./poc_all/remote_code_execution/CVE-2022-4888-addify_price_calculator_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915.yaml
+./poc_all/remote_code_execution/CVE-2022-4888-addify_price_calculator_for_woocommerce-c8065d25-2ded-4021-a53d-204242db0915_1.yaml
 ./poc_all/remote_code_execution/CVE-2022-4974-acf_for_woocommerce_product-39fb0499-9ab4-4a2f-b0db-ece86bcf4d42.yaml
 ./poc_all/remote_code_execution/CVE-2022-4974-add_fields_to_checkout_page_woocommerce-39fb0499-9ab4-4a2f-b0db-ece86bcf4d42.yaml
 ./poc_all/remote_code_execution/CVE-2022-4974-age_verification_screen_for_woocommerce-39fb0499-9ab4-4a2f-b0db-ece86bcf4d42.yaml
@@ -660399,6 +660413,7 @@
 ./poc_all/remote_code_execution/CVE-2025-47623-wp_ecommerce_paypal-0a70063e-b2d5-44a3-9a6f-3bbc9f4a0ff3.yaml
 ./poc_all/remote_code_execution/CVE-2025-47645-elex_bulk_edit_products_prices_attributes_for_woocommerce_basic-2273f637-a80d-46af-8ce6-dfcd25a87679.yaml
 ./poc_all/remote_code_execution/CVE-2025-47657-productive_commerce-9a455340-4d07-4f02-9dcb-835fcd43985d.yaml
+./poc_all/remote_code_execution/CVE-2025-47657-productive_commerce-9a455340-4d07-4f02-9dcb-835fcd43985d_1.yaml
 ./poc_all/remote_code_execution/CVE-2025-47661-pgall_for_woocommerce-524ac3c0-d343-494f-8820-7a6bf290adbf.yaml
 ./poc_all/remote_code_execution/CVE-2025-47687-storekeeper_for_woocommerce-233a75c7-9e45-4509-8f7c-584e2f5b38c7.yaml
 ./poc_all/remote_code_execution/CVE-2025-48111-yith_paypal_express_checkout_for_woocommerce-d0969d4a-c1cd-4b60-b298-e97f694887e9.yaml
