@@ -1,0 +1,51 @@
+id: ai_alt_text_generator-fa4741fa-0871-4f23-b164-94f5e94f5712
+
+info:
+  name: >
+    AI Alt Text Generator <= 2.7.0 - Missing Authorization to Unauthenticated Arbitrary Attachment Modification via 'post_id' Parameter
+  author: topscoder
+  severity: high
+  description: >
+    
+  reference:
+    - https://github.com/topscoder/nuclei-wordfence-cve
+    - https://www.wordfence.com/threat-intel/vulnerabilities/id/fa4741fa-0871-4f23-b164-94f5e94f5712?source=api-scan
+  classification:
+    cvss-metrics: 
+    cvss-score: 
+    cve-id: 
+  metadata:
+    fofa-query: "wp-content/plugins/ai-alt-text-generator/"
+    google-query: inurl:"/wp-content/plugins/ai-alt-text-generator/"
+    shodan-query: 'http.html:"wp-content/plugins/ai-alt-text-generator/"'
+  tags: cve,wordpress,wp-plugin,ai-alt-text-generator,high,candidate
+
+http:
+  - method: GET
+    redirects: true
+    max-redirects: 3
+    path:
+      - "{{BaseURL}}/wp-content/plugins/ai-alt-text-generator/readme.txt"
+
+    extractors:
+      - type: regex
+        name: version
+        part: body
+        group: 1
+        regex:
+          - "(?mi)Stable tag:\\s*([0-9.]+)"
+
+    matchers-condition: and
+    matchers:
+      - type: status
+        status:
+          - 200
+
+      - type: word
+        words:
+          - "ai-alt-text-generator"
+        part: body
+
+      - type: dsl
+        dsl:
+          - compare_versions(version, '<= 2.7.0')
