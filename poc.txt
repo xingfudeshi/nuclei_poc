@@ -316415,6 +316415,7 @@
 ./poc_all/cve/CVE-2023-37582_54.yaml
 ./poc_all/cve/CVE-2023-37582_55.yaml
 ./poc_all/cve/CVE-2023-37582_56.yaml
+./poc_all/cve/CVE-2023-37582_57.yaml
 ./poc_all/cve/CVE-2023-37582_6.yaml
 ./poc_all/cve/CVE-2023-37582_7.yaml
 ./poc_all/cve/CVE-2023-37582_8.yaml
