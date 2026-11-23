@@ -380521,6 +380521,8 @@
 ./poc_all/cve/CVE-2024-23508.yaml
 ./poc_all/cve/CVE-2024-23508_1.yaml
 ./poc_all/cve/CVE-2024-23508_2.yaml
+./poc_all/cve/CVE-2024-23509-crypto_airdrop-c346e196-e9e7-43a5-81d0-cc0e071cd7b6.yaml
+./poc_all/cve/CVE-2024-23509-finaco-c346e196-e9e7-43a5-81d0-cc0e071cd7b6.yaml
 ./poc_all/cve/CVE-2024-2350_1.yaml
 ./poc_all/cve/CVE-2024-23510-a5a5c070efd29276c692bc7542ee1692.yaml
 ./poc_all/cve/CVE-2024-23510-dont_muck_my_markup-d1390c22-3c8d-47f1-b225-1bcbc215832a.yaml
@@ -708997,6 +708999,7 @@
 ./poc_all/wordpress/CVE-2024-49222-wpguppy_lite-a5082982-e605-4ab3-a5b8-785c1850da98.yaml
 ./poc_all/wordpress/CVE-2024-49225-wppricing_builder_lite_responsive_pricing_table_builder-2e7afe50-6c62-4c86-8633-f14f8e9412e2.yaml
 ./poc_all/wordpress/CVE-2024-49226-taketin_to_wp_membership-6942b352-2468-4310-a69c-2590b3b3a4a8.yaml
+./poc_all/wordpress/CVE-2024-49226-taketin_to_wp_membership-6942b352-2468-4310-a69c-2590b3b3a4a8_1.yaml
 ./poc_all/wordpress/CVE-2024-49231-wordpress_video-66c3c02c-0ef4-4d71-97fa-f7b786ae64b9.yaml
 ./poc_all/wordpress/CVE-2024-49237-ahmeti_wp_timeline-2fef8861-e992-474b-b006-ebb3cb8e4cf4.yaml
 ./poc_all/wordpress/CVE-2024-49266-wp_spreadplugin-19e9735c-ddaa-4b38-ad21-b2f13c0d4461.yaml
